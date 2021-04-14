@@ -62,7 +62,7 @@
 3. Based on the choice of the user, the console must display the computer's choice and the winner of the game
 
 ## SWOT Analysis
-![SWOT](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fphoto%2F72975551.cms&imgrefurl=https%3A%2F%2Ftimesofindia.indiatimes.com%2Flife-style%2Fevents%2Fsurya-grahan-today-annular-solar-eclipse-2019-december-images-photos-pics-video-check-out-these-breathing-pictures-of-the-seasons-last-surya-grahan-of-26-december-2019-india%2Fphotostory%2F72975550.cms&tbnid=pTd2OIa33-6LVM&vet=12ahUKEwjCv8OO9_3vAhUFCXIKHYzFDCcQMygAegUIARDQAQ..i&docid=78aIM0GrmvG9rM&w=1200&h=900&q=images&ved=2ahUKEwjCv8OO9_3vAhUFCXIKHYzFDCcQMygAegUIARDQAQ)
+![SWOT](https://images.app.goo.gl/6pLMMq7nij8gV5a18)
 
   
 
