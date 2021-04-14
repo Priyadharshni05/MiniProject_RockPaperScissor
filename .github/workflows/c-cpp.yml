@@ -12,7 +12,7 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@https://github.com/Priyadharshni05/MiniProject_RockPaperScissor.git
+    - uses: actions/checkout@v2
     - name: configure
       run: ./configure
     - name: make
