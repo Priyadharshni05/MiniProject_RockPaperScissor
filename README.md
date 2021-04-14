@@ -1,4 +1,3 @@
-# Project Information
+# Rock Paper Scissors game in C Programming
 
-* Add a brief discription about the project
-* Add the information about extra folders or files added
+* This is a Simple Project implemented by C Programming. This game is popular and consist of two players. Here, the game is played between user and computer.
