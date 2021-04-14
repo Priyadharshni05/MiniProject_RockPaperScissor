@@ -13,7 +13,7 @@
 
 ## Cost and Features
 
-* The cost parameter for this project was none.All the softwares and features were freely available on the internet.
+* The cost parameter for this project was none. All the softwares and features were freely available on the internet.
 
 ## Application
 
@@ -40,6 +40,20 @@
   
 * How:
   A simple project which has multi-files in it and the program is made using structures and functions in C Programming Language.
+  
+## Low Level Requirements
+
+1. The header files required for the project are as follows
+   * <stdio.h> - to make use of stadard input/output functions
+   * <string.h> - to make use of string functions
+   * <stdlib.h> - for dynamic memory allocation, pointers and system functions for the console widow
+   * <time.h> - for manipulating time
+   * <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
+2. The user must input the choice in the same format as displayed in the console window as it is case sensitive.
+3. Based on the choice of the user, the console must display the computer's choice and the winner of the game
+
+  
+
 
 
 
