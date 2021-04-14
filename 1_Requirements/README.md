@@ -23,7 +23,23 @@
 
 ## Requirements
 
-* This project is developed using Codeblocks tool.
+
+## 4W's and 1'H
+
+* Who:
+  This application can be used by anyone seeking for entertainment.
+
+* What:
+  This is a game application where the user plays against the computer by guessing what could be the computer's Choice.
+  
+* When:
+  This application is made as a part of LTTS Step-in Mini Project work.
+  
+* Where:
+  This application is developed using Codeblocks tool.
+  
+* How:
+  A simple project which has multi-files in it and the program is made using structures and functions in C Programming Language.
 
 
 
