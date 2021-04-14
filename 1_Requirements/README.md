@@ -11,6 +11,10 @@
 
 * This game is simply developed using C Programming. This is a fun and interesting game. The PC will just ask for your choice and then displays the computer choice and who won the game.
 
+## Cost and Features
+* The cost parameter for this project was none.All the softwares and features were freely available on the internet.
+* The features of this project is that it can take input for the type of filter for calculation and provides accurate results.
+
 ## Requirements
 
 * This project is developed using Codeblocks tool.
