@@ -11,18 +11,21 @@
 * If both players choose the same thing, it is draw.
 * For this task, the computer will be one of the players.
 
-## Cost and Features
+## Cost
 
 * The cost parameter for this project was none. All the softwares and features were freely available on the internet.
+
+## Features
+
+* User plays against Computer. No need of companion.
+* Compact User Interface to play
+* Fun game.
 
 ## Application
 
 * The program is to be run using the command line interface.
 * The results are also shown on the command line interface.
-* The advantage of this is that this project can be used online or offline.
-
-## Requirements
-
+* The advantage of this is that this project can be played online or offline.
 
 ## 4W's and 1'H
 
@@ -41,6 +44,12 @@
 * How:
   A simple project which has multi-files in it and the program is made using structures and functions in C Programming Language.
   
+## High Level Requirements
+
+1.a
+2.The necessary header files must be added to perform dynamic memory allocation, standard input/output functions, structures, pointers, looping statements such as for, while, switch-case, if and else-if ladder.
+
+
 ## Low Level Requirements
 
 1. The header files required for the project are as follows
@@ -51,6 +60,9 @@
    * <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
 2. The user must input the choice in the same format as displayed in the console window as it is case sensitive.
 3. Based on the choice of the user, the console must display the computer's choice and the winner of the game
+
+## SWOT Analysis
+![https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fphoto%2F72975551.cms&imgrefurl=https%3A%2F%2Ftimesofindia.indiatimes.com%2Flife-style%2Fevents%2Fsurya-grahan-today-annular-solar-eclipse-2019-december-images-photos-pics-video-check-out-these-breathing-pictures-of-the-seasons-last-surya-grahan-of-26-december-2019-india%2Fphotostory%2F72975550.cms&tbnid=pTd2OIa33-6LVM&vet=12ahUKEwjCv8OO9_3vAhUFCXIKHYzFDCcQMygAegUIARDQAQ..i&docid=78aIM0GrmvG9rM&w=1200&h=900&q=images&ved=2ahUKEwjCv8OO9_3vAhUFCXIKHYzFDCcQMygAegUIARDQAQ]
 
   
 
