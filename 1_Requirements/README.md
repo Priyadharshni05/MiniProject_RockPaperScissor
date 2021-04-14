@@ -62,7 +62,7 @@
 3. Based on the choice of the user, the console must display the computer's choice and the winner of the game
 
 ## SWOT Analysis
-![SWOT](https://images.app.goo.gl/6pLMMq7nij8gV5a18)
+![SWOT](https://miro.medium.com/max/1396/1*Yf7Ku0L_P7wTaYJ4QCHxUw.png)
 
   
 
