@@ -5,7 +5,8 @@ TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 SRC =main.c\
 src/game.c\
-test/test_game.c\unity/unity.c\
+test/test_game.c\
+unity/unity.c\
 
 
 TEST_SRC = src/game.c\
