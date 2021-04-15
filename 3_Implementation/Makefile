@@ -5,7 +5,7 @@ PROJECT_NAME = RockPaperScissors
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
+SRC = main.c\
 src/game.c
 
 # All test source files
