@@ -46,14 +46,20 @@
   
 ## High Level Requirements
 
-ID    | Description                                  | Status      |
-------|----------------------------------------------|-------------|
-HR_01 | Operating System (Windows10/Linux)           | Implemented |
-HR_02 | C Language                                   | Implemented |
-HR_03 | User shall be able to implement their Choice | Implemented |
+ID    | Description                               | Status      |
+------|-------------------------------------------|-------------|
+HR_01 | Operating System (Windows10/Linux)        | Implemented |
+HR_02 | C Language                                | Implemented |
+HR_03 | User should be able to input their Choice | Implemented |
 
 
 ## Low Level Requirements
+
+ID    | Description                                                                             | Status      |
+------|-----------------------------------------------------------------------------------------|-------------|
+LR_01 | Required header files should be added                                                   | Implemented |
+LR_02 | User must give the input choice in the same format displayed (Rock/Paper/Scissors/Exit) | Implemented |
+LR_03 | User should be able to input their Choice                                               | Implemented |
 
 1. The header files required for the project are as follows
    *  <stdio.h> - to make use of stadard input/output functions
