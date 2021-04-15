@@ -1,5 +1,3 @@
-
-![SWOT](https://user-images.githubusercontent.com/69076776/114832737-707cc580-9dec-11eb-8cb0-117cf94c8237.png)
 ## Making of the game
 
 *   This game is simply developed using C Programming. This is a fun and interesting game. The PC will just ask for your choice and then displays the computer choice and the winner of the game.
@@ -72,7 +70,7 @@ LR_04 | Display User's Scores                                                   
    *  <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
 
 ## SWOT Analysis
-
+![SWOT](https://user-images.githubusercontent.com/69076776/114832737-707cc580-9dec-11eb-8cb0-117cf94c8237.png)
 
   
 
