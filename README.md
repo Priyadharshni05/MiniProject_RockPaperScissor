@@ -8,7 +8,7 @@
 
 [![Valgrind](https://github.com/Priyadharshni05/MiniProject_RockPaperScissor/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Priyadharshni05/MiniProject_RockPaperScissor/actions/workflows/Valgrind.yml)
 
-[![Unit testing](https://github.com/Priyadharshni05/MiniProject_RockPaperScissor/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Priyadharshni05/MiniProject_RockPaperScissor/actions/workflows/unit-test.yml)
+[![Unit Testing](https://github.com/Priyadharshni05/MiniProject_RockPaperScissor/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Priyadharshni05/MiniProject_RockPaperScissor/actions/workflows/unit-test.yml)
 
 [![C/C++ CI](https://github.com/Priyadharshni05/MiniProject_RockPaperScissor/actions/workflows/c-build.yml/badge.svg)](https://github.com/Priyadharshni05/MiniProject_RockPaperScissor/actions/workflows/c-build.yml)
 
