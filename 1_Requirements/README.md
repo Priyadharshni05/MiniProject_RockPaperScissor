@@ -4,45 +4,45 @@
 
 ## Logic of the game
 
-* Rock Paper and Scissors is a hand game played between two players. The winner of the game is decided by using the following Logic.
-* Rock vs Paper -> Paper wins.
-* Rock vs Scissor -> Rock wins.
-* Paper vs Scissor -> Scissor wins.
-* If both players choose the same thing, it is draw.
-* For this task, the computer will be one of the players.
+*   Rock Paper and Scissors is a hand game played between two players. The winner of the game is decided by using the following Logic.
+*   Rock vs Paper -> Paper wins.
+*   Rock vs Scissor -> Rock wins.
+*   Paper vs Scissor -> Scissor wins.
+*   If both players choose the same thing, it is draw.
+*   For this task, the computer will be one of the players.
 
 ## Cost
 
-* The cost parameter for this project was none. All the softwares and features were freely available on the internet.
+*   The cost parameter for this project was none. All the softwares and features were freely available on the internet.
 
 ## Features
 
-* User plays against Computer. No need of companion.
-* Compact User Interface to play
-* Fun game.
+*   User plays against Computer. No need of companion.
+*   Compact User Interface to play
+*   Fun game.
 
 ## Application
 
-* The program is to be run using the command line interface.
-* The results are also shown on the command line interface.
-* The advantage of this is that this project can be played online or offline.
+*   The program is to be run using the command line interface.
+*   The results are also shown on the command line interface.
+*   The advantage of this is that this project can be played online or offline.
 
 ## 4W's and 1'H
 
-* Who:
-  This application can be used by anyone seeking for entertainment.
+*   Who:
+    This application can be used by anyone seeking for entertainment.
 
-* What:
-  This is a game application where the user plays against the computer by guessing what could be the computer's Choice.
+*   What:
+    This is a game application where the user plays against the computer by guessing what could be the computer's Choice.
   
-* When:
-  This application is made as a part of LTTS Step-in Mini Project work.
+*   When:
+    This application is made as a part of LTTS Step-in Mini Project work.
   
-* Where:
-  This application is developed using Codeblocks tool.
+*   Where:
+    This application is developed using Codeblocks tool.
   
-* How:
-  A simple project which has multi-files in it and the program is made using structures and functions in C Programming Language.
+*   How:
+    A simple project which has multi-files in it and the program is made using structures and functions in C Programming Language.
   
 ## High Level Requirements
 
@@ -53,11 +53,11 @@
 ## Low Level Requirements
 
 1. The header files required for the project are as follows
-   * <stdio.h> - to make use of stadard input/output functions
-   * <string.h> - to make use of string functions
-   * <stdlib.h> - for dynamic memory allocation, pointers and system functions for the console widow
-   * <time.h> - for manipulating time
-   * <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
+   *  <stdio.h> - to make use of stadard input/output functions
+   *  <string.h> - to make use of string functions
+   *  <stdlib.h> - for dynamic memory allocation, pointers and system functions for the console widow
+   *  <time.h> - for manipulating time
+   *  <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
 2. The user must input the choice in the same format as displayed in the console window as it is case sensitive.
 3. Based on the choice of the user, the console must display the computer's choice and the winner of the game
 
