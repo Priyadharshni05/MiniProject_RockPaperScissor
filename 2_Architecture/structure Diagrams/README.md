@@ -1,11 +1,12 @@
 # Structure Diagrams
 
-                         ![SD_1](https://user-images.githubusercontent.com/69076776/114837782-b425fe00-9df1-11eb-81dc-349ed036ba6c.png)     
+
+   ![SD (1)](https://user-images.githubusercontent.com/69076776/114847127-fe5fad00-9dfa-11eb-8f4c-c389dd878199.png)
 
 
 
+   ![SD_2](https://user-images.githubusercontent.com/69076776/114847181-0ddef600-9dfb-11eb-9613-d3e18f08544a.png)  
 
-                         ![SD_2](https://user-images.githubusercontent.com/69076776/114839859-e0db1500-9df3-11eb-8dec-ec4df819407f.png)
 
 
 
