@@ -70,7 +70,8 @@ LR_04 | Display User's Scores                                                   
    *  <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
 
 ## SWOT Analysis
-![SWOT](https://user-images.githubusercontent.com/69076776/114832737-707cc580-9dec-11eb-8cb0-117cf94c8237.png)
+![SWOT](https://user-images.githubusercontent.com/69076776/114833230-f862cf80-9dec-11eb-96fb-68b99e29a6b6.png)
+
 
   
 
