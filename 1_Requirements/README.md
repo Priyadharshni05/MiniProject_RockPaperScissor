@@ -1,6 +1,6 @@
 ## Making of the game
 
-*   This game is simply developed using C Programming. This is a fun and interesting game. The PC will just ask for your choice and then displays the computer choice and who won the game.
+*   This game is simply developed using C Programming. This is a fun and interesting game. The PC will just ask for your choice and then displays the computer choice and the winner of the game.
 
 ## Logic of the game
 
@@ -25,29 +25,32 @@
 
 *   The program is to be run using the command line interface.
 *   The results are also shown on the command line interface.
-*   The advantage of this is that this project can be played online or offline.
+*   The advantage of this is that this game can be played online or offline.
 
 ## 4W's and 1'H
 
 *   Who:
-    This application can be used by anyone seeking for entertainment.
+    This application can be used by anyone who is seeking for entertainment.
 
 *   What:
     This is a game application where the user plays against the computer by guessing what could be the computer's Choice.
   
 *   When:
-    This application is made as a part of LTTS Step-in Mini Project work.
+    This game can be played anytime.
   
 *   Where:
-    This application is developed using Codeblocks tool.
+    This game can be played anywhere (Linux/Windows Os)
   
 *   How:
-    A simple project which has multi-files in it and the program is made using structures and functions in C Programming Language.
+    This is a simple game which is implemented using multi-files and using structures and functions in C Programming Language.
   
 ## High Level Requirements
 
-1.a
-2.The necessary header files must be added to perform dynamic memory allocation, standard input/output functions, structures, pointers, looping statements such as for, while, switch-case, if and else-if ladder.
+ID    | Description                                  | Status      |
+------|----------------------------------------------|-------------|
+HR_01 | Operating System (Windows10/Linux)           | Implemented |
+HR_02 | C Language                                   | Implemented |
+HR_03 | User shall be able to implement their Choice | Implemented |
 
 
 ## Low Level Requirements
