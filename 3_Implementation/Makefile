@@ -3,14 +3,18 @@ PROJECT_NAME = RockPaperScissors
 
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
-SRC =src/game.c \
+SRC =main.c\
+src/game.c
 
 COV_SRC = test_game.c
 
-TEST_SRC = test/test_game.c \
-unity/unity.c 
+TEST_SRC = src/game.c\
+test/test_game.c\
+unity/unity.c\
 INC_H = inc
 INC_T = unity
+
+
 
 ifdef OS
    RM = del 
