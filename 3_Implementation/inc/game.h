@@ -1,7 +1,10 @@
 /**
 * @file game.h
 * Played against Computer
-*
+* @author Priyadharshni N
+* @brief This program is to implement the RockPaperScissors Game
+* 
+* @copyright Copyright (c) 2021
 */
 #ifndef __GAME_H__
 #define __GAME_H__
