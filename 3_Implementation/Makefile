@@ -7,7 +7,7 @@ SRC =src/game.c\
 test/test_game.c \
 unity/unity.c 
 
-COV_SRC = test_game.c
+COV_SRC = test/test_game.c
 
 TEST_SRC = test/test_game.c \
 unity/unity.c 
@@ -30,7 +30,7 @@ endif
 .PHONY: run clean test doc all
 
 all:
-	gcc -I $(INC_H) -I $(INC_T) $(SRC) $(COV_SRC) main.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
+	gcc -I $(INC_H) -I $(INC_T) $(SRC) main.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
 	
 run:
 	$(call FixPath,$(PROJ_NAME).$(EXEC))
