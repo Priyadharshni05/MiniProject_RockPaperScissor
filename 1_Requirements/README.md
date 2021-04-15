@@ -13,7 +13,7 @@
 
 ## Cost
 
-*   The cost parameter for this project was none. All the softwares and features were freely available on the internet.
+*   The cost parameter for this project is none. All the softwares and features were freely available on the internet.
 
 ## Features
 
