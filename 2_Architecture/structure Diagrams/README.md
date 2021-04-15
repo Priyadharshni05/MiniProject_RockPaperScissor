@@ -1,5 +1,6 @@
 # Structure Diagrams
 
-![SD](https://user-images.githubusercontent.com/69076776/114836160-fcdcb780-9def-11eb-8761-70fcf371f7eb.png)
+![SD (1)](https://user-images.githubusercontent.com/69076776/114837611-85a82300-9df1-11eb-8b65-6a5ef6ea44ff.png)
+
 
 
