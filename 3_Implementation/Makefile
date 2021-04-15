@@ -13,13 +13,8 @@ test/test_game.c\
 unity/unity.c\
 
 
-# All include folders with header files
-INC	= -Iinc\
--Iunity\
-
-#Library Inlcudes
-#INCLUDE_LIBS = 
-INCLUDE_LIBS = -lcunit
+INC_H = inc
+INC_T = unity
 
 ifdef OS
    RM = del 
