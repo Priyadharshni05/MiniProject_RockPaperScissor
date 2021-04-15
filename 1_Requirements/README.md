@@ -59,7 +59,8 @@ ID    | Description                                                             
 ------|-----------------------------------------------------------------------------------------|-------------|
 LR_01 | Required header files should be added                                                   | Implemented |
 LR_02 | User must give the input choice in the same format displayed (Rock/Paper/Scissors/Exit) | Implemented |
-LR_03 | User should be able to input their Choice                                               | Implemented |
+LR_03 | Display who is the winner                                                               | Implemented |
+LR_04 | Display User's Scores                                                                   | Future      |
 
 1. The header files required for the project are as follows
    *  <stdio.h> - to make use of stadard input/output functions
@@ -67,8 +68,6 @@ LR_03 | User should be able to input their Choice                               
    *  <stdlib.h> - for dynamic memory allocation, pointers and system functions for the console widow
    *  <time.h> - for manipulating time
    *  <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
-2. The user must input the choice in the same format as displayed in the console window as it is case sensitive.
-3. Based on the choice of the user, the console must display the computer's choice and the winner of the game
 
 ## SWOT Analysis
 ![SWOT](https://miro.medium.com/max/1396/1*Yf7Ku0L_P7wTaYJ4QCHxUw.png)
