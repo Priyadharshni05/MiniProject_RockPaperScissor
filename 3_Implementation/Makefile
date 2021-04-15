@@ -28,7 +28,7 @@ endif
 .PHONY: run clean test doc all
 
 all:
-	gcc -I $(INC_H) $(INC_T) $(SRC) main.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
+	gcc -I $(INC_H) $(SRC) main.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
 	
 run:
 	$(call FixPath,$(PROJ_NAME).$(EXEC))
