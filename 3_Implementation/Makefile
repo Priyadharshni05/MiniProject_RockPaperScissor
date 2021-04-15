@@ -4,9 +4,9 @@ PROJECT_NAME = RockPaperScissors
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 SRC =main.c\
-src/game.c
+src/game.c\
+test_game.c
 
-COV_SRC = test_game.c
 
 TEST_SRC = src/game.c\
 test/test_game.c\
