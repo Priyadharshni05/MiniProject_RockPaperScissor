@@ -1,6 +1,6 @@
 ## Making of the game
 
-*   This game is simply developed using C Programming. This is a fun and interesting game. The PC will just ask for your choice and then displays the computer choice and the winner of the game.
+*   This game is simply developed using C Programming based on the concepts of structues and Multi files. This is a fun and interesting game. The PC will just ask for your choice and then displays the computer's choice and the winner of the game.
 
 ## Logic of the game
 
@@ -46,12 +46,12 @@
   
 ## High Level Requirements
 
-ID    | Description                               | Status      |
-------|-------------------------------------------|-------------|
-HR_01 | Operating System (Windows10/Linux)        | Implemented |
-HR_02 | C Language                                | Implemented |
-HR_03 | User should be able to input their Choice | Implemented |
-
+ID    | Description                                    | Status      |
+------|------------------------------------------------|-------------|
+HR_01 | Operating System (Windows10/Linux)             | Implemented |
+HR_02 | C Language                                     | Implemented |
+HR_03 | User should be able to input their Choice      | Implemented |
+HR_04 | Display th winner correctly based on the logic | Implemented |
 
 ## Low Level Requirements
 
@@ -70,7 +70,9 @@ LR_04 | Display User's Scores                                                   
    *    <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
 
 ## SWOT Analysis
-![SWOT](https://user-images.githubusercontent.com/69076776/114833230-f862cf80-9dec-11eb-96fb-68b99e29a6b6.png)
+#
+![SWOT drawio](https://user-images.githubusercontent.com/69076776/114985582-966b9e00-9eb0-11eb-950d-44f15e98be71.png)
+
 
 
   
