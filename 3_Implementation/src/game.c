@@ -13,7 +13,7 @@ int get_user_choice()
 
   while(1)
   {
-    printf("\nPlease select your choice Rock, Paper, Scissor or Exit: ");
+    printf("\nPlease select your choice Rock, Paper, Scissor or Exit: "); //Getting input from user
     fgets(buffer,sizeof(buffer), stdin);
 
     pos = strrchr(buffer, '\n');
@@ -39,6 +39,7 @@ int get_pc_choice()
   return rand() % 3;
 }
 
+//Determining the winer
 int get_result(int user, int pc)
 {
   int i;
@@ -56,6 +57,7 @@ int get_result(int user, int pc)
   return results[i].result;
 }
 
+//Displaying the Winner
 void output_result(int user, int pc, int result)
 {
   const char *result_names[] = {"Computer won", "Player won", "Draw"};
