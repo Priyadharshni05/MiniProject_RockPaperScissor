@@ -12,3 +12,4 @@ T_06 | Scissors      | Paper       | Player won      | Player won      | PASS   
 T_07 | Rock          | Scissors    | Player won      | Player won      | PASS   |
 T_08 | Paper         | Scissors    | Computer won    | Computer won    | PASS   |
 T_09 | Scissors      | Scissors    | Draw            | Draw            | PASS   |
+T_10 | xxxx          | ------------| No O/p          | No O/p          | PASS   |
