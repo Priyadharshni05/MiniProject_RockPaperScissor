@@ -55,10 +55,36 @@ static const output results[] =
 #define NUM_RESULTS   sizeof(results) / sizeof(results[0])
 
 /* Function prototypes */
-
+/**
+ * @brief Get the user choice object
+ * Gets the user choice 
+ * @return int 
+ */
 int get_user_choice();
+
+/**
+ * @brief Get the pc choice object
+ * Generate the PC's choice randomly
+ * @return int 
+ */
 int get_pc_choice();
-int get_result(int player, int computer);
-void output_result(int player, int comp, int result);
+
+/**
+ * @brief Get the result object
+ * 
+ * @param user ->User's Choice
+ * @param pc ->PC's Choice
+ * @return int ->Result
+ */
+int get_result(int user, int pc);
+
+/**
+ * @brief Prints the Result
+ * 
+ * @param user ->User's Choice
+ * @param pc ->PC's Choice
+ * @param result ->Result
+ */
+void output_result(int user, int pc, int result);
 
 #endif  /* #define __GAME_H__ */
