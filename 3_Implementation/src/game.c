@@ -8,12 +8,12 @@
 
 int get_user_choice()
 {
-  char buffer[8];
+  char buffer[10];
   char *pos;
 
   while(1)
   {
-    printf("\nPlease select your choice Rock, Paper, Scissor or Exit: "); //Getting input from user
+    printf("\nPlease select your choice Rock, Paper, Scissors or Exit: "); //Getting input from user
     fgets(buffer,sizeof(buffer), stdin);
 
     pos = strrchr(buffer, '\n');
