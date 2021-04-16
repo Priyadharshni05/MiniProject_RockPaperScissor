@@ -63,11 +63,11 @@ LR_03 | Display who is the winner                                               
 LR_04 | Display User's Scores                                                                   | Future      |
 
 1. The header files required for the project are as follows
-   *    <stdio.h> - to make use of stadard input/output functions
-   *    <string.h> - to make use of string functions
-   *    <stdlib.h> - for dynamic memory allocation, pointers and system functions for the console widow
-   *    <time.h> - for manipulating time
-   *    <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
+   *     <stdio.h> - to make use of stadard input/output functions
+   *     <string.h> - to make use of string functions
+   *     <stdlib.h> - for dynamic memory allocation, pointers and system functions for the console widow
+   *     <time.h> - for manipulating time
+   *     <ctype.h> - to make use of variables of char type to obtain inputs from the console window.
 
 ## SWOT Analysis
 #
