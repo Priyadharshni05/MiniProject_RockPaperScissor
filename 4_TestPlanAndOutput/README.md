@@ -1,6 +1,5 @@
 # Test plan and Test ouput
 
-
 ID   | User's Choice | PC's Choice | Expected Output | Actual Output   | Status |
 -----|---------------|-------------|-----------------|-----------------|--------|
 T_01 | Rock          | Rock        | Draw            | Draw            | PASS   |
