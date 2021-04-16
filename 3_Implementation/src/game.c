@@ -8,12 +8,12 @@
 
 int get_user_choice()
 {
-  char buffer[10];
+  char buffer[50];
   char *pos;
 
   while(1)
   {
-    printf("\nPlease select your choice Rock, Paper, Scissors or Exit: "); //Getting input from user
+    printf("\nPlease select your choice: Rock, Paper, Scissors or Exit: "); //Getting input from user // Should be same as the Choice given (Case Sesitive)
     fgets(buffer,sizeof(buffer), stdin);
 
     pos = strrchr(buffer, '\n');
