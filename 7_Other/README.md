@@ -1,4 +1,3 @@
-# other
+# Other
 
-* Extra Folders added: None
-
+*   Extra Folders added: None
