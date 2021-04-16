@@ -21,7 +21,8 @@ Folder             | Description
 
 SF Id.   |  Name             | No Test Cases |Test Case Pass |
 ---------|-------------------|---------------|---------------|
-`261620` | Priyadharshni N   |  1-10         | 1-10          |
+`261620` | Priyadharshni N   |  1-9          | 1-9           |
+(Refer TestPlan and output File)
 
 
 
